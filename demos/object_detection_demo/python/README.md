@@ -63,7 +63,7 @@ Options:
   -h, --help            Show this help message and exit.
   -m MODEL, --model MODEL
                         Required. Path to an .xml file with a trained model.
-  -at {ssd,yolo,faceboxes,centernet,retina}, --architecture_type {ssd,yolo,faceboxes,centernet,retina}
+  -at {ssd,yolo,yolov4,faceboxes,centernet,retina}, --architecture_type {ssd,yolo,yolov4,faceboxes,centernet,retina}
                         Required. Specify model' architecture type.
   -i INPUT, --input INPUT
                         Required. An input to process. The input must be a
